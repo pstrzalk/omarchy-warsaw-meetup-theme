@@ -1,0 +1,36 @@
+# Warsaw Meetup — Omarchy meetup, Warsaw, 14 Oct 2027
+# Black ground, dark-red accent.
+mode = "dark"
+
+accent = "#c1121f"
+selection = "#3a0d12"
+muted = "#6e4a4d"
+
+background = "#0b0708"
+dark_background = "#070405"
+darker_background = "#040203"
+lighter_background = "#1c1012"
+
+foreground = "#e9dcdc"
+dark_foreground = "#6b5557"
+light_foreground = "#d4c3c4"
+bright_foreground = "#fff4f3"
+
+red = "#c1121f"
+yellow = "#d9a45b"
+orange = "#d4622a"
+green = "#d9826e"
+cyan = "#a38488"
+blue = "#9a4a55"
+magenta = "#b0406a"
+brown = "#5c2a24"
+
+bright_red = "#ef2b3a"
+bright_yellow = "#f0c27d"
+bright_green = "#f0a592"
+bright_cyan = "#c9a7ab"
+bright_blue = "#c26776"
+bright_magenta = "#d6608e"
+
+hyprland_active_border = "rgba(c1121fee) rgba(5e0a12ee) 45deg"
+hyprland_inactive_border = "rgba(2a1416aa)"
