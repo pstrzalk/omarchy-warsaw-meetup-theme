@@ -1,6 +1,6 @@
 # Warsaw Meetup — Omarchy theme
 
-A black and dark-red Omarchy theme made for the Omarchy Warsaw Meetup (14 · 10 · 2027). The main background is a pixel-art Warsaw skyline against a red sun over the Vistula.
+A black and dark-red Omarchy theme made for the Omarchy Warsaw Meetup (14 · 10 · 2026). The main background is a pixel-art Warsaw skyline against a red sun over the Vistula.
 
 ![Preview](preview.png)
 
